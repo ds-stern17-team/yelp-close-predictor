@@ -8,4 +8,4 @@ https://transfer.sh/fF29A/review_cleaned_d.p
 
 
 
-##Dataframe of yelp businesses: {row:business_id, column: features}
+-Dataframe of yelp businesses: {row:business_id, column: features}
